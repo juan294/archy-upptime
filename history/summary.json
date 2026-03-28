@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Archy (Dashboard)",
+    "url": "https://archy-delta.vercel.app",
+    "icon": "https://icons.duckduckgo.com/ip3/archy-delta.vercel.app.ico",
+    "slug": "archy-dashboard",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 532,
+    "timeDay": 532,
+    "timeWeek": 532,
+    "timeMonth": 532,
+    "timeYear": 532,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "Archy API Health",
+    "url": "https://archy-delta.vercel.app/api/health",
+    "icon": "https://icons.duckduckgo.com/ip3/archy-delta.vercel.app.ico",
+    "slug": "archy-api-health",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 822,
+    "timeDay": 822,
+    "timeWeek": 822,
+    "timeMonth": 822,
+    "timeYear": 822,
+    "dailyMinutesDown": {}
+  }
+]
